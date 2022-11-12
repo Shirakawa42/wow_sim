@@ -1,2 +1,2 @@
 mod apply_behavior;
-mod damages;
+pub(crate) mod damages;

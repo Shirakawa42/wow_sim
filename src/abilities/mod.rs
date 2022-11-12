@@ -1,1 +1,2 @@
 mod shaman;
+mod deathknight;
